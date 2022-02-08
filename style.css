@@ -42,7 +42,7 @@ h1 {
     max-width: 55%;
     display: grid;
     grid-template-columns: 50% 50%;
-    gap: 4px;
+    gap: 8px;
 
     text-align: center;
 }
